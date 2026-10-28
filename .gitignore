@@ -15,3 +15,5 @@ lib/firebase_options.dart.generated
 .vscode/
 .idea/
 *.iml
+# Widget Preview related
+.widget_preview/
